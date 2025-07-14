@@ -11,7 +11,7 @@
 
 - 💼 I'm currently learning **Java**, **Spring Boot**, **React**, and **Docker**
 - 🌱 Exploring open-source contribution and full-stack development
-- 🎓 Studied up to 3rd year (3-1) in **ITM (Industrial and Management Engineering)** at Seoul National University of Science and Technology
+- 🎓 Studied up to 3rd year (3-1) in **ITM** at Seoul National University of Science and Technology
 - ✨ I love solving problems, organizing ideas, and building beautiful UIs
 - 🧩 Interests: Web App Projects, Algorithms, UI/UX, Tech Communities
 - 📬 How to reach me: **dltheka1014@naver.com**
@@ -31,7 +31,6 @@
 ## 💻 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -52,10 +51,5 @@
 
 ---
 
-## ✨ Quote
-
-> "코드는 언어이고, 그 언어는 세상을 바꿀 수 있는 도구다."
-
----
 
 <p align="center">Thanks for visiting! ⭐️</p>
