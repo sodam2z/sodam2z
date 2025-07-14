@@ -14,7 +14,7 @@
 - 🎓 Studied up to 3rd year (3-1) in **ITM (Industrial and Management Engineering)** at Seoul National University of Science and Technology
 - ✨ I love solving problems, organizing ideas, and building beautiful UIs
 - 🧩 Interests: Web App Projects, Algorithms, UI/UX, Tech Communities
-- 📬 How to reach me: **sodam2z@gmail.com**
+- 📬 How to reach me: **dltheka1014@naver.com**
 
 ---
 
