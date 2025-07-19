@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 About Me
 
-- 💼 I'm currently learning **Java**, **Spring Boot**, **React**, and **Docker**
+- 💼 I'm currently learning **Java**, **React**, and **Docker**
 - 🌱 Exploring open-source contribution and full-stack development
 - 🎓 Studied up to 3rd year (3-1) in **ITM** at Seoul National University of Science and Technology
 - ✨ I love solving problems, organizing ideas, and building beautiful UIs
