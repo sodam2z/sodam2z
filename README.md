@@ -21,7 +21,6 @@
 ## 🌐 Connect with me
 
 <p align="left">
-<a href="https://linkedin.com/in/sodam2z" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:dltheka1014@seoultech.ac.kr"><img align="center" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/sodam2z"><img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
