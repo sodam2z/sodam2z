@@ -1,45 +1,11 @@
-<h1 align="center">Hi there 👋, I'm Sodam (이소담)</h1>
-<p align="center">
-🎓 Industrial & Management Engineering @ SeoulTech<br/>
-💻 Passionate about Software Engineering, Web Development, and Algorithms<br/>
-🎯 Always learning and exploring new tech<br/>
-</p>
-
----
-
-## 🧑‍💻 About Me
-
-- 💼 I'm currently learning **Java**, **React**, and **Docker**
-- 🌱 Exploring open-source contribution and full-stack development
-- 🎓 Studied up to 3rd year (3-1) in **ITM** at Seoul National University of Science and Technology
-- ✨ I love solving problems, organizing ideas, and building beautiful UIs
-- 🧩 Interests: Web App Projects, Algorithms, UI/UX, Tech Communities
-- 📬 How to reach me: **dltheka1014@naver.com**
-
----
-
-## 🌐 Connect with me
-
-<p align="left">
-<a href="mailto:dltheka1014@seoultech.ac.kr"><img align="center" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/sodam2z"><img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
----
-
-## 💻 Tech Stack
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
-
-
----
-
-
-<p align="center">Thanks for visiting! ⭐️</p>
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=dbfeff&height=120&text=Hi,%20I'm%20Sodam🐰&animation=&fontColor=fdb2b6&fontSize=60" />
+    </div>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <div align= "center"> <a href=https://velog.io/@sodam2z> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@sodam2z"> </a>
+         <a href=mailto:sodam2z.228@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sodam2z.228@gmail.com"> </a>
+          </div>  <br> 
+    <div align= "center">  </div> 
+    </div>
+    
